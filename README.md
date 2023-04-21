@@ -6,6 +6,16 @@ A ideia inicial seria apresentar os dados em um site, cujo banco de dados seria 
 
 As estatísticas poderiam variar entre serviço usado para o envio, origem ou até destido no pacote.
 
+* [Como participar](#como-participar-do-projeto)
+* [Código de rastreamento](#código-de-rastreamento)
+* [Exemplos de resposta dos Correios](#exemplos-de-resposta-do-sistema-dos-correios)
+
+## Como participar do projeto
+
+- Participe das conversas e votações na aba [Discussions](https://github.com/GabrielRF/Estatisticas-RastreioBot/discussions)
+- Abra [issues](https://github.com/GabrielRF/Estatisticas-RastreioBot/issues)
+- Faça um pull request (resolvendo issues)
+
 ## Código de Rastreamento
 
 O código de rastreamento segue um padrão chamado [S10](https://en.wikipedia.org/wiki/S10_(UPU_standard)), composto por:
