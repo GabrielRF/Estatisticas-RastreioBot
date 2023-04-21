@@ -4,7 +4,7 @@
 
 A ideia inicial seria apresentar os dados em um site, cujo banco de dados seria atualizado no fim de cada dia contendo todos os pacotes presentes no bot.
 
-As estatísticas poderiam variar entre serviço usado para o envio, origem ou até destido no pacote.
+As estatísticas poderiam variar entre serviço usado para o envio, origem ou até destino no pacote.
 
 * [Como participar](#como-participar-do-projeto)
 * [Código de rastreamento](#código-de-rastreamento)
